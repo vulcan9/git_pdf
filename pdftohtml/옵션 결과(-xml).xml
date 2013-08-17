@@ -1,0 +1,304 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE pdf2xml SYSTEM "pdf2xml.dtd">
+
+<pdf2xml>
+<page number="1" position="absolute" top="0" left="0" height="792" width="612">
+	<fontspec id="0" size="9" family="Times" color="#231f20"/>
+	<fontspec id="1" size="6" family="Times" color="#100f0d"/>
+	<fontspec id="2" size="31" family="Times" color="#231f20"/>
+	<fontspec id="3" size="11" family="Times" color="#231f20"/>
+	<fontspec id="4" size="7" family="Times" color="#231f20"/>
+	<fontspec id="5" size="12" family="Times" color="#231f20"/>
+	<fontspec id="6" size="12" family="Times" color="#231f20"/>
+	<fontspec id="7" size="9" family="Times" color="#7b7879"/>
+	<fontspec id="8" size="8" family="Times" color="#d3d2d2"/>
+	<fontspec id="9" size="9" family="Times" color="#ffffff"/>
+	<fontspec id="10" size="10" family="Times" color="#ffffff"/>
+	<fontspec id="11" size="6" family="Times" color="#7b7879"/>
+<text top="222" left="57" width="20" height="13" font="0"><b>Tap</b></text>
+<text top="222" left="192" width="57" height="13" font="0"><b>Double tap</b></text>
+<text top="222" left="327" width="25" height="13" font="0"><b>Drag</b></text>
+<text top="222" left="462" width="25" height="13" font="0"><b>Flick</b></text>
+<text top="371" left="57" width="30" height="13" font="0"><b>Pinch</b></text>
+<text top="371" left="192" width="37" height="13" font="0"><b>Spread</b></text>
+<text top="371" left="327" width="30" height="13" font="0"><b>Press</b></text>
+<text top="371" left="462" width="72" height="13" font="0"><b>Press and tap</b></text>
+<text top="529" left="57" width="79" height="13" font="0"><b>Press and drag</b></text>
+<text top="529" left="269" width="35" height="13" font="0"><b>Rotate</b></text>
+<text top="580" left="116" width="12" height="9" font="1">OR</text>
+<text top="580" left="382" width="12" height="9" font="1">OR</text>
+<text top="580" left="500" width="12" height="9" font="1">OR</text>
+<text top="70" left="120" width="228" height="40" font="2"><b>Touch Gesture</b></text>
+<text top="82" left="357" width="173" height="17" font="3"><b>R E F E R E N C E   G U I D E</b></text>
+<text top="102" left="357" width="215" height="11" font="4">By Craig Villamor, Dan Willis, and Luke Wroblewski</text>
+<text top="116" left="357" width="117" height="11" font="4">Last updated April 15, 2010</text>
+<text top="175" left="57" width="402" height="17" font="5"><b>CORE GESTURES  </b>Basic gestures for most touch commands</text>
+<text top="619" left="57" width="167" height="13" font="7">Press surface with one finger and </text>
+<text top="633" left="57" width="164" height="13" font="7">move second finger over surface </text>
+<text top="646" left="57" width="109" height="13" font="7">without losing contact</text>
+<text top="457" left="462" width="93" height="13" font="7">Press surface with </text>
+<text top="471" left="462" width="107" height="13" font="7">one finger and briefly </text>
+<text top="484" left="462" width="94" height="13" font="7">touch surface with </text>
+<text top="497" left="462" width="67" height="13" font="7">second finger</text>
+<text top="457" left="327" width="89" height="13" font="7">Touch surface for </text>
+<text top="471" left="327" width="84" height="13" font="7">extended period </text>
+<text top="484" left="327" width="34" height="13" font="7">of time</text>
+<text top="312" left="57" width="104" height="13" font="7">Briefly touch surface </text>
+<text top="326" left="57" width="64" height="13" font="7">with fingertip</text>
+<text top="312" left="192" width="110" height="13" font="7">Rapidly touch surface </text>
+<text top="326" left="192" width="93" height="13" font="7">twice with fingertip</text>
+<text top="312" left="327" width="98" height="13" font="7">Move fingertip over </text>
+<text top="326" left="327" width="79" height="13" font="7">surface without </text>
+<text top="339" left="327" width="69" height="13" font="7">losing contact</text>
+<text top="312" left="462" width="110" height="13" font="7">Quickly brush surface </text>
+<text top="326" left="462" width="64" height="13" font="7">with fingertip</text>
+<text top="457" left="57" width="97" height="13" font="7">Touch surface with </text>
+<text top="471" left="57" width="107" height="13" font="7">two fingers and bring </text>
+<text top="484" left="57" width="102" height="13" font="7">them closer together</text>
+<text top="457" left="192" width="97" height="13" font="7">Touch surface with </text>
+<text top="471" left="192" width="79" height="13" font="7">two fingers and </text>
+<text top="484" left="192" width="84" height="13" font="7">move them apart</text>
+<text top="619" left="269" width="154" height="13" font="7">Touch surface with two fingers </text>
+<text top="633" left="269" width="152" height="13" font="7">and move them in a clockwise </text>
+<text top="646" left="269" width="145" height="13" font="7">or counterclockwise direction</text>
+<text top="702" left="73" width="272" height="12" font="8">Supporting materials for this guide can be found online at:</text>
+<text top="702" left="345" width="9" height="13" font="9">   </text>
+<text top="701" left="354" width="175" height="14" font="10"><b>http://www.lukew.com/touch/ </b></text>
+<text top="728" left="58" width="408" height="9" font="11">This work is licensed under the Creative Commons Attribution-Noncommercial-Share Alike 3.0 Unported License. </text>
+<text top="737" left="58" width="308" height="9" font="11">To view a copy of this license, visit http://creativecommons.org/licenses/by-nc-sa/3.0/</text>
+</page>
+<page number="2" position="absolute" top="0" left="0" height="792" width="612">
+	<fontspec id="12" size="19" family="Times" color="#444041"/>
+	<fontspec id="13" size="19" family="Times" color="#a7a5a5"/>
+	<fontspec id="14" size="8" family="Times" color="#444041"/>
+	<fontspec id="15" size="8" family="Times" color="#231f20"/>
+	<fontspec id="16" size="20" family="Times" color="#7b7879"/>
+	<fontspec id="17" size="6" family="Times" color="#656262"/>
+	<fontspec id="18" size="9" family="Times" color="#4f4b4c"/>
+	<fontspec id="19" size="9" family="Times" color="#918f8f"/>
+<text top="460" left="222" width="12" height="9" font="1">OR</text>
+<text top="566" left="206" width="4" height="9" font="1">1</text>
+<text top="566" left="293" width="4" height="9" font="1">2</text>
+<text top="26" left="96" width="145" height="25" font="12"><b>touch gesture </b></text>
+<text top="26" left="241" width="157" height="25" font="13"><b>reference guide</b></text>
+<text top="186" left="214" width="25" height="12" font="14">press</text>
+<text top="186" left="66" width="67" height="12" font="15"><b>Change mode</b></text>
+<text top="254" left="214" width="48" height="12" font="14">double tap</text>
+<text top="254" left="66" width="26" height="12" font="15"><b>Open</b></text>
+<text top="325" left="214" width="14" height="12" font="14">tap</text>
+<text top="324" left="66" width="30" height="12" font="15"><b>Select</b></text>
+<text top="495" left="178" width="67" height="12" font="14">press and drag</text>
+<text top="447" left="66" width="31" height="12" font="15"><b>Adjust</b></text>
+<text top="581" left="178" width="70" height="12" font="14">lasso and cross</text>
+<text top="668" left="175" width="110" height="12" font="14">press and tap, then drag</text>
+<text top="654" left="211" width="4" height="9" font="1">1</text>
+<text top="654" left="264" width="4" height="9" font="1">2</text>
+<text top="619" left="66" width="33" height="12" font="15"><b>Bundle</b></text>
+<text top="34" left="539" width="19" height="18" font="16">r</text>
+<text top="727" left="57" width="198" height="9" font="17">Supporting materials for this guide can be found online:</text>
+<text top="737" left="57" width="146" height="12" font="15"><b>http://www.lukew.com/touch/ </b></text>
+<text top="82" left="57" width="128" height="17" font="5"><b>Major User Actions</b></text>
+<text top="98" left="57" width="228" height="13" font="18">Currently supported by touch gesture systems</text>
+<text top="151" left="66" width="54" height="13" font="19">user action</text>
+<text top="151" left="171" width="37" height="13" font="19">gesture</text>
+<text top="151" left="354" width="55" height="13" font="19">description</text>
+<text top="128" left="66" width="88" height="12" font="15"><b>BASIC ACTIONS</b></text>
+<text top="413" left="66" width="54" height="13" font="19">user action</text>
+<text top="413" left="171" width="37" height="13" font="19">gesture</text>
+<text top="413" left="354" width="55" height="13" font="19">description</text>
+<text top="389" left="66" width="154" height="12" font="15"><b>OBJECT-RELATED ACTIONS</b></text>
+<text top="446" left="354" width="179" height="12" font="14">Press surface with one finger and move </text>
+<text top="458" left="354" width="157" height="12" font="14">second finger over surface without </text>
+<text top="470" left="354" width="63" height="12" font="14">losing contact</text>
+<text top="530" left="354" width="171" height="12" font="14">Make circular motion with finger, then </text>
+<text top="542" left="354" width="118" height="12" font="14">cross over selected object</text>
+<text top="617" left="354" width="170" height="12" font="14">Touch first object while second finger </text>
+<text top="629" left="354" width="171" height="12" font="14">taps other objects, the move selected </text>
+<text top="641" left="354" width="136" height="12" font="14">objects by dragging first finger</text>
+<text top="186" left="354" width="188" height="12" font="14">Touch surface for extended period of time</text>
+<text top="254" left="354" width="184" height="12" font="14">Rapidly touch surface twice with fingertip</text>
+<text top="325" left="354" width="152" height="12" font="14">Briefly touch surface with fingertip</text>
+</page>
+<page number="3" position="absolute" top="0" left="0" height="792" width="612">
+	<fontspec id="20" size="8" family="Times" color="#231f20"/>
+	<fontspec id="21" size="6" family="Times" color="#231f20"/>
+<text top="26" left="96" width="145" height="25" font="12"><b>touch gesture </b></text>
+<text top="26" left="241" width="157" height="25" font="13"><b>reference guide</b></text>
+<text top="165" left="271" width="23" height="12" font="14">drag </text>
+<text top="177" left="271" width="66" height="12" font="14">(across item or</text>
+<text top="189" left="271" width="48" height="12" font="14">off-screen)</text>
+<text top="165" left="66" width="31" height="12" font="15"><b>Delete</b></text>
+<text top="234" left="271" width="14" height="12" font="14">tap</text>
+<text top="246" left="271" width="53" height="12" font="14">(source and</text>
+<text top="258" left="271" width="52" height="12" font="14">destination)</text>
+<text top="234" left="66" width="45" height="12" font="15"><b>Duplicate</b></text>
+<text top="314" left="66" width="26" height="12" font="15"><b>Move</b></text>
+<text top="494" left="271" width="18" height="12" font="14">flick</text>
+<text top="636" left="464" width="26" height="12" font="14">rotate</text>
+<text top="635" left="66" width="32" height="12" font="15"><b>Rotate</b></text>
+<text top="34" left="539" width="19" height="18" font="16">t</text>
+<text top="727" left="57" width="198" height="9" font="17">Supporting materials for this guide can be found online:</text>
+<text top="737" left="57" width="146" height="12" font="15"><b>http://www.lukew.com/touch/ </b></text>
+<text top="130" left="66" width="54" height="13" font="19">user action</text>
+<text top="130" left="171" width="37" height="13" font="19">gesture</text>
+<text top="130" left="354" width="55" height="13" font="19">description</text>
+<text top="107" left="66" width="208" height="12" font="15"><b>OBJECT-RELATED ACTIONS </b>(continued)</text>
+<text top="495" left="354" width="158" height="12" font="14">Quickly brush surface with fingertip</text>
+<text top="565" left="354" width="194" height="12" font="14">With one finger on object, touch elsewhere </text>
+<text top="577" left="354" width="132" height="12" font="14">on surface with second finger</text>
+<text top="164" left="354" width="161" height="12" font="14">Move fingertip over surface without </text>
+<text top="176" left="354" width="63" height="12" font="14">losing contact</text>
+<text top="282" left="215" width="4" height="9" font="21">1</text>
+<text top="277" left="257" width="4" height="9" font="21">2</text>
+<text top="233" left="354" width="163" height="12" font="14">Touch object, then touch elsewhere </text>
+<text top="245" left="354" width="47" height="12" font="14">on surface</text>
+<text top="315" left="271" width="20" height="12" font="14">drag</text>
+<text top="327" left="271" width="46" height="12" font="14">(and drop)</text>
+<text top="314" left="354" width="161" height="12" font="14">Move fingertip over surface without </text>
+<text top="326" left="354" width="63" height="12" font="14">losing contact</text>
+<text top="385" left="282" width="51" height="12" font="14">multi-finger</text>
+<text top="397" left="282" width="20" height="12" font="14">drag</text>
+<text top="384" left="354" width="143" height="12" font="14">Move two to five fingertips over </text>
+<text top="396" left="354" width="134" height="12" font="14">surface without losing contact</text>
+<text top="401" left="213" width="12" height="9" font="21">OR</text>
+<text top="447" left="175" width="12" height="9" font="21">OR</text>
+<text top="447" left="235" width="12" height="9" font="21">OR</text>
+<text top="565" left="271" width="61" height="12" font="14">press and tap</text>
+<text top="662" left="267" width="12" height="9" font="21">OR</text>
+<text top="662" left="373" width="12" height="9" font="21">OR</text>
+</page>
+<page number="4" position="absolute" top="0" left="0" height="792" width="612">
+<text top="26" left="96" width="145" height="25" font="12"><b>touch gesture </b></text>
+<text top="26" left="241" width="157" height="25" font="13"><b>reference guide</b></text>
+<text top="165" left="271" width="25" height="12" font="14">pinch</text>
+<text top="165" left="66" width="55" height="12" font="15"><b>Scale down</b></text>
+<text top="235" left="271" width="37" height="12" font="14">squeeze</text>
+<text top="303" left="66" width="41" height="12" font="15"><b>Scale up</b></text>
+<text top="34" left="539" width="19" height="18" font="16">u</text>
+<text top="727" left="57" width="198" height="9" font="17">Supporting materials for this guide can be found online:</text>
+<text top="737" left="57" width="146" height="12" font="15"><b>http://www.lukew.com/touch/ </b></text>
+<text top="130" left="66" width="54" height="13" font="19">user action</text>
+<text top="130" left="171" width="37" height="13" font="19">gesture</text>
+<text top="130" left="354" width="55" height="13" font="19">description</text>
+<text top="107" left="66" width="208" height="12" font="15"><b>OBJECT-RELATED ACTIONS </b>(continued)</text>
+<text top="164" left="354" width="160" height="12" font="14">Touch surface with two fingers and </text>
+<text top="176" left="354" width="118" height="12" font="14">bring them closer together</text>
+<text top="234" left="354" width="159" height="12" font="14">Touch surface with five fingers and </text>
+<text top="246" left="354" width="118" height="12" font="14">bring them closer together</text>
+<text top="304" left="271" width="31" height="12" font="14">spread</text>
+<text top="303" left="354" width="160" height="12" font="14">Touch surface with two fingers and </text>
+<text top="315" left="354" width="76" height="12" font="14">move them apart</text>
+<text top="376" left="271" width="24" height="12" font="14">splay</text>
+<text top="375" left="354" width="159" height="12" font="14">Touch surface with five fingers and </text>
+<text top="387" left="354" width="76" height="12" font="14">move them apart</text>
+<text top="492" left="66" width="55" height="12" font="15"><b>Adjust view</b></text>
+<text top="504" left="66" width="34" height="12" font="15"><b>(rotate)</b></text>
+<text top="578" left="271" width="25" height="12" font="14">pinch</text>
+<text top="578" left="66" width="55" height="12" font="15"><b>Adjust view</b></text>
+<text top="590" left="66" width="44" height="12" font="15"><b>(zoom in)</b></text>
+<text top="651" left="214" width="48" height="12" font="14">double tap</text>
+<text top="459" left="171" width="37" height="13" font="19">gesture</text>
+<text top="459" left="354" width="55" height="13" font="19">description</text>
+<text top="457" left="66" width="54" height="13" font="19">user action</text>
+<text top="435" left="66" width="123" height="12" font="15"><b>NAVIGATING ACTIONS</b></text>
+<text top="578" left="354" width="160" height="12" font="14">Touch surface with two fingers and </text>
+<text top="590" left="354" width="118" height="12" font="14">bring them closer together</text>
+<text top="651" left="354" width="184" height="12" font="14">Rapidly touch surface twice with fingertip</text>
+<text top="493" left="453" width="26" height="12" font="14">rotate</text>
+<text top="518" left="267" width="12" height="9" font="21">OR</text>
+<text top="518" left="373" width="12" height="9" font="21">OR</text>
+</page>
+<page number="5" position="absolute" top="0" left="0" height="792" width="612">
+<text top="26" left="96" width="145" height="25" font="12"><b>touch gesture </b></text>
+<text top="26" left="241" width="157" height="25" font="13"><b>reference guide</b></text>
+<text top="165" left="271" width="31" height="12" font="14">spread</text>
+<text top="165" left="66" width="55" height="12" font="15"><b>Adjust view</b></text>
+<text top="177" left="66" width="51" height="12" font="15"><b>(zoom out)</b></text>
+<text top="303" left="66" width="91" height="12" font="15"><b>Display commands</b></text>
+<text top="34" left="539" width="19" height="18" font="16">i</text>
+<text top="727" left="57" width="198" height="9" font="17">Supporting materials for this guide can be found online:</text>
+<text top="737" left="57" width="146" height="12" font="15"><b>http://www.lukew.com/touch/ </b></text>
+<text top="130" left="66" width="54" height="13" font="19">user action</text>
+<text top="130" left="171" width="37" height="13" font="19">gesture</text>
+<text top="130" left="354" width="55" height="13" font="19">description</text>
+<text top="107" left="66" width="176" height="12" font="15"><b>NAVIGATING ACTIONS </b>(continued)</text>
+<text top="164" left="354" width="160" height="12" font="14">Touch surface with two fingers and </text>
+<text top="176" left="354" width="76" height="12" font="14">move them apart</text>
+<text top="234" left="354" width="184" height="12" font="14">Rapidly touch surface twice with fingertip</text>
+<text top="304" left="214" width="25" height="12" font="14">press</text>
+<text top="303" left="354" width="157" height="12" font="14">Touch surface for extended period </text>
+<text top="315" left="354" width="31" height="12" font="14">of time</text>
+<text top="371" left="214" width="61" height="12" font="14">press and tap</text>
+<text top="370" left="354" width="182" height="12" font="14">Press surface with one finger and briefly </text>
+<text top="382" left="354" width="146" height="12" font="14">touch surface with second finger</text>
+<text top="574" left="227" width="69" height="12" font="14">two-finger drag</text>
+<text top="574" left="66" width="83" height="12" font="15"><b>Move through list</b></text>
+<text top="574" left="354" width="148" height="12" font="14">Move to previous/next item in list</text>
+<text top="645" left="453" width="26" height="12" font="14">rotate</text>
+<text top="666" left="267" width="12" height="9" font="21">OR</text>
+<text top="666" left="373" width="12" height="9" font="21">OR</text>
+<text top="235" left="214" width="48" height="12" font="14">double tap</text>
+<text top="438" left="354" width="184" height="12" font="14">Rapidly touch surface twice with fingertip</text>
+<text top="439" left="214" width="48" height="12" font="14">double tap</text>
+<text top="507" left="354" width="168" height="12" font="14">Touch specific corner of surface with </text>
+<text top="519" left="354" width="39" height="12" font="14">fingertip </text>
+<text top="508" left="214" width="46" height="12" font="14">corner tap</text>
+</page>
+<page number="6" position="absolute" top="0" left="0" height="792" width="612">
+<text top="26" left="96" width="145" height="25" font="12"><b>touch gesture </b></text>
+<text top="26" left="241" width="157" height="25" font="13"><b>reference guide</b></text>
+<text top="234" left="66" width="27" height="12" font="15"><b>Scroll</b></text>
+<text top="34" left="539" width="19" height="18" font="16">o</text>
+<text top="727" left="57" width="198" height="9" font="17">Supporting materials for this guide can be found online:</text>
+<text top="737" left="57" width="146" height="12" font="15"><b>http://www.lukew.com/touch/ </b></text>
+<text top="130" left="66" width="54" height="13" font="19">user action</text>
+<text top="130" left="171" width="37" height="13" font="19">gesture</text>
+<text top="130" left="354" width="55" height="13" font="19">description</text>
+<text top="107" left="66" width="176" height="12" font="15"><b>NAVIGATING ACTIONS </b>(continued)</text>
+<text top="310" left="354" width="166" height="12" font="14">Move two fingers up or down across </text>
+<text top="322" left="354" width="33" height="12" font="14">surface</text>
+<text top="385" left="214" width="25" height="12" font="14">press</text>
+<text top="384" left="354" width="163" height="12" font="14">Touch scrollbar for extended period </text>
+<text top="396" left="354" width="31" height="12" font="14">of time</text>
+<text top="456" left="225" width="18" height="12" font="14">flick</text>
+<text top="455" left="354" width="171" height="12" font="14">Quickly brush surface with fingertip in </text>
+<text top="467" left="354" width="138" height="12" font="14">the direction you want to scroll</text>
+<text top="166" left="66" width="18" height="12" font="15"><b>Pan</b></text>
+<text top="167" left="354" width="161" height="12" font="14">Move fingers and palm of one hand </text>
+<text top="179" left="354" width="157" height="12" font="14">over surface without losing contact</text>
+<text top="311" left="233" width="69" height="12" font="14">two-finger drag</text>
+<text top="545" left="354" width="182" height="12" font="14">Briefly touch surface with fingertip when </text>
+<text top="557" left="354" width="95" height="12" font="14">a scroll is in progress</text>
+<text top="546" left="214" width="14" height="12" font="14">tap</text>
+<text top="235" left="271" width="20" height="12" font="14">drag</text>
+<text top="234" left="354" width="166" height="12" font="14">Move fingertip over scrollbar without </text>
+<text top="246" left="354" width="63" height="12" font="14">losing contact</text>
+<text top="455" left="66" width="54" height="12" font="15"><b>Scroll (fast)</b></text>
+<text top="545" left="66" width="54" height="12" font="15"><b>Scroll (fast)</b></text>
+<text top="618" left="354" width="166" height="12" font="14">Move fingertip over scrollbar without </text>
+<text top="630" left="354" width="63" height="12" font="14">losing contact</text>
+<text top="618" left="66" width="28" height="12" font="15"><b>Scrub</b></text>
+<text top="618" left="271" width="20" height="12" font="14">drag</text>
+<text top="167" left="246" width="46" height="12" font="14">drag hand</text>
+</page>
+<page number="7" position="absolute" top="0" left="0" height="792" width="612">
+<text top="26" left="96" width="145" height="25" font="12"><b>touch gesture </b></text>
+<text top="26" left="241" width="157" height="25" font="13"><b>reference guide</b></text>
+<text top="160" left="66" width="34" height="12" font="15"><b>Accept</b></text>
+<text top="34" left="539" width="19" height="18" font="16">p</text>
+<text top="727" left="57" width="198" height="9" font="17">Supporting materials for this guide can be found online:</text>
+<text top="737" left="57" width="146" height="12" font="15"><b>http://www.lukew.com/touch/ </b></text>
+<text top="130" left="66" width="54" height="13" font="19">user action</text>
+<text top="130" left="171" width="37" height="13" font="19">gesture</text>
+<text top="107" left="66" width="107" height="12" font="15"><b>DRAWING ACTIONS</b></text>
+<text top="190" left="171" width="168" height="12" font="14">Draw a slash on surface with fingertip</text>
+<text top="220" left="171" width="208" height="12" font="14">Draw a question mark on surface with fingertip</text>
+<text top="250" left="171" width="165" height="12" font="14">Draw an “X” on surface with fingertip</text>
+<text top="249" left="66" width="31" height="12" font="15"><b>Reject</b></text>
+<text top="279" left="171" width="184" height="12" font="14">Scratch out area on surface with fingertip</text>
+<text top="160" left="171" width="194" height="12" font="14">Draw a checkmark on surface with fingertip</text>
+<text top="219" left="66" width="40" height="12" font="15"><b>Get help</b></text>
+<text top="279" left="66" width="26" height="12" font="15"><b>Undo</b></text>
+<text top="190" left="66" width="17" height="12" font="15"><b>Cut</b></text>
+</page>
+</pdf2xml>

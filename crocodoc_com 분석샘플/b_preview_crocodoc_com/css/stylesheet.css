@@ -1,0 +1,20 @@
+.crocodoc-lvpkGo .f15 { font-family: "crocodoc-lvpkGo-15"; } @font-face { font-family: "crocodoc-lvpkGo-15"; src: url("../fonts/15.ttf"); }
+.crocodoc-lvpkGo .fh { font-family: Helvetica, Arial; line-height:1em; }
+.crocodoc-lvpkGo .fhb { font-family: Helvetica, Arial; font-weight:bold; line-height:1em; }
+.crocodoc-lvpkGo .fho { font-family: Helvetica, Arial; font-style:italic; line-height:1em; }
+.crocodoc-lvpkGo .ftb { font-family: Times New Roman, Times, serif; font-weight:bold; line-height:1em; }
+.crocodoc-lvpkGo .ftbi { font-family: Times New Roman, Times, serif; font-weight:bold; font-style:italic; line-height:1em; }
+.crocodoc-lvpkGo .fti { font-family: Times New Roman, Times, serif; font-style:italic; line-height:1em; }
+.crocodoc-lvpkGo .ftr { font-family: Times New Roman, Times, serif; line-height:1em; }
+.crocodoc-lvpkGo tspan { white-space:pre; }
+.crocodoc-lvpkGo path { fill:transparent; }
+.crocodoc-lvpkGo.crocodoc-page-text { position:relative; overflow:hidden; }
+.crocodoc-lvpkGo .tb { position:absolute; }
+.crocodoc-lvpkGo .tb::selection { opacity:0; }
+.crocodoc-lvpkGo .tx { position:absolute; display:inline-block; white-space:pre; text-align:left; }
+.crocodoc-lvpkGo .tx.r1,
+.crocodoc-lvpkGo .tx.r2,
+.crocodoc-lvpkGo .tx.r3 { -webkit-transform-origin:left top; -ms-transform-origin:left top; -moz-transform-origin:left top; -o-transform-origin:left top; transform-origin:left top; }
+.crocodoc-lvpkGo .tx.r1 { -webkit-transform:rotate(90deg); -ms-transform:rotate(90deg); -moz-transform:rotate(90deg); -o-transform:rotate(90deg); transform:rotate(90deg); }
+.crocodoc-lvpkGo .tx.r2 { -webkit-transform:rotate(180deg); -ms-transform:rotate(180deg); -moz-transform:rotate(180deg); -o-transform:rotate(180deg); transform:rotate(180deg); }
+.crocodoc-lvpkGo .tx.r3 { -webkit-transform:rotate(270deg); -ms-transform:rotate(270deg); -moz-transform:rotate(270deg); -o-transform:rotate(270deg); transform:rotate(270deg); }

@@ -1,0 +1,18 @@
+http://andreasgal.com/2011/06/15/pdf-js/
+https://github.com/mozilla/pdf.js
+
+
+https://crocodoc.com/see-it-in-action/
+
+http://garysieling.com/blog/parsing-pdfs-at-scale-with-node-js-pdf-js-and-lunr-js
+
+https://github.com/euske/pdfminer
+http://denis.papathanasiou.org/2010/08/04/extracting-text-images-from-pdf-files/
+https://github.com/dpapathanasiou/pdfminer-layout-scanner
+
+
+http://garysieling.com/blog/extracting-tables-from-pdfs-in-javascript-with-pdf-js
+
+
+크롬블우져에 extention을 설치하고 브라우져를 열고 http://sseckun.zc.bz/sample.pdf를 연다.
+http://jsbin.com/pdfjs-prevnext-v2/3888/edit

@@ -1,0 +1,30 @@
+[
+	{
+		"number":1,
+		"pages":5,
+		"height":1263,
+		"width":892,
+		"fonts":[
+			{"fontspec":"0","size":"16","family":"Times","color":"#000000"},
+			{"fontspec":"1","size":"12","family":"Times","color":"#000000"},
+			{"fontspec":"2","size":"14","family":"Times","color":"#ffffff"},
+			{"fontspec":"3","size":"25","family":"Times","color":"#000000"}
+		],
+		"text":[
+			{"top":84,"left":42,"width":219,"height":25,"font":0,"data":"IFDT1.0ProcessDiagram"},
+			{"top":86,"left":596,"width":78,"height":20,"font":1,"data":"2008-11-25"},
+			{"top":157,"left":314,"width":66,"height":22,"font":2,"data":"원본SWF"},
+			{"top":259,"left":327,"width":50,"height":33,"font":3,"data":"IFDT"},
+			{"top":292,"left":259,"width":185,"height":33,"font":3,"data":"SWFDecompiler"},
+			{"top":540,"left":327,"width":50,"height":33,"font":3,"data":"IFDT"},
+			{"top":396,"left":333,"width":50,"height":33,"font":3,"data":"IFDT"},
+			{"top":429,"left":230,"width":256,"height":33,"font":3,"data":"SWFContentModifier"},
+			{"top":540,"left":327,"width":50,"height":33,"font":3,"data":"IFDT"},
+			{"top":573,"left":201,"width":302,"height":33,"font":3,"data":"SWFActionScriptAnalyzer"},
+			{"top":833,"left":316,"width":66,"height":22,"font":2,"data":"대상SWF"},
+			{"top":685,"left":329,"width":50,"height":33,"font":3,"data":"IFDT"},
+			{"top":718,"left":275,"width":158,"height":33,"font":3,"data":"SWFCompiler"},
+			{"top":1208,"left":421,"width":53,"height":20,"font":1,"data":"1페이지"}
+		]
+	}
+]

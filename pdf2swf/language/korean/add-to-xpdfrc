@@ -1,0 +1,12 @@
+#----- begin Korean support package (2011-sep-02)
+cidToUnicode	Adobe-Korea1	F:\xpdf\language\korean\Adobe-Korea1.cidToUnicode
+unicodeMap	ISO-2022-KR	F:\xpdf\language\korean\ISO-2022-KR.unicodeMap
+cMapDir		Adobe-Korea1	F:\xpdf\language\korean\CMap
+toUnicodeDir			F:\xpdf\language\korean\CMap
+#fontFileCC	Adobe-Korea1	/usr/..../batang.ttf"
+#fontFileCC	Unidocs-Korea1	/usr/..../batang.ttf"
+#----- end Korean support package
+
+displayNamedCIDFontTT Gulim C:\Windows\Fonts\gulim.ttc
+#displayNamedCIDFontT1 AppleMyungjo C:\Windows\Fonts\AdobeMyungjoStd-Medium.otf ¢¡ otf ÆùÆ® ¸ÊÇÎ
+displayCIDFontTT Adobe-Korea1 C:\Windows\Fonts\batang.ttc

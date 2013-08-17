@@ -1,0 +1,18 @@
+https://bbs.archlinux.org/viewtopic.php?pid=1154758
+
+https://github.com/coolwanglu/pdf2htmlEX
+git clone --recursive git://github.com/coolwanglu/pdf2htmlEX.git
+
+http://coolwanglu.github.io/pdf2htmlEX/
+
+Quick Start
+
+
+Command line
+https://github.com/coolwanglu/pdf2htmlEX/wiki/Command-line
+
+
+
+git clone git://github.com/coolwanglu/pdf2htmlEX.git
+cd pdf2htmlEX
+cmake . && make && sudo make install

@@ -1,0 +1,22 @@
+usage: mudraw [options] input [pages]
+        -o -    output filename (%d for page number) supported formats: pgm, ppm, pam, png, pbm
+        -p -    password
+        -r -    resolution in dpi (default: 72)
+        -w -    width (in pixels) (maximum width if -r is specified)
+        -h -    height (in pixels) (maximum height if -r is specified)
+        -f -    fit width and/or height exactly (ignore aspect)
+        -a      save alpha channel (only pam and png)
+        -b -    number of bits of antialiasing (0 to 8)
+        -g      render in grayscale
+        -m      show timing information
+        -t      show text (-tt for xml, -ttt for more verbose xml)
+        -x      show display list
+        -d      disable use of display list
+        -5      show md5 checksums
+        -R -    rotate clockwise by given number of degrees
+        -G gamma        gamma correct output
+        -I      invert output
+        -l      print outline
+        -j -    Output mujstest file
+        -i      ignore errors and continue with the next file
+        pages   comma separated list of ranges

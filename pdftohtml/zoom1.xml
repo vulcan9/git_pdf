@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE pdf2xml SYSTEM "pdf2xml.dtd">
+
+<pdf2xml>
+<page number="1" position="absolute" top="0" left="0" height="792" width="612">
+	<fontspec id="0" size="9" family="Times" color="#231f20"/>
+	<fontspec id="1" size="6" family="Times" color="#100f0d"/>
+	<fontspec id="2" size="31" family="Times" color="#231f20"/>
+	<fontspec id="3" size="11" family="Times" color="#231f20"/>
+	<fontspec id="4" size="7" family="Times" color="#231f20"/>
+	<fontspec id="5" size="12" family="Times" color="#231f20"/>
+	<fontspec id="6" size="12" family="Times" color="#231f20"/>
+	<fontspec id="7" size="9" family="Times" color="#7b7879"/>
+	<fontspec id="8" size="8" family="Times" color="#d3d2d2"/>
+	<fontspec id="9" size="9" family="Times" color="#ffffff"/>
+	<fontspec id="10" size="10" family="Times" color="#ffffff"/>
+	<fontspec id="11" size="6" family="Times" color="#7b7879"/>
+<text top="222" left="57" width="20" height="13" font="0"><b>Tap</b></text>
+<text top="222" left="192" width="57" height="13" font="0"><b>Double tap</b></text>
+<text top="222" left="327" width="25" height="13" font="0"><b>Drag</b></text>
+<text top="222" left="462" width="25" height="13" font="0"><b>Flick</b></text>
+<text top="371" left="57" width="30" height="13" font="0"><b>Pinch</b></text>
+<text top="371" left="192" width="37" height="13" font="0"><b>Spread</b></text>
+<text top="371" left="327" width="30" height="13" font="0"><b>Press</b></text>
+<text top="371" left="462" width="72" height="13" font="0"><b>Press and tap</b></text>
+<text top="529" left="57" width="79" height="13" font="0"><b>Press and drag</b></text>
+<text top="529" left="269" width="35" height="13" font="0"><b>Rotate</b></text>
+<text top="580" left="116" width="12" height="9" font="1">OR</text>
+<text top="580" left="382" width="12" height="9" font="1">OR</text>
+<text top="580" left="500" width="12" height="9" font="1">OR</text>
+<text top="70" left="120" width="228" height="40" font="2"><b>Touch Gesture</b></text>
+<text top="82" left="357" width="173" height="17" font="3"><b>R E F E R E N C E   G U I D E</b></text>
+<text top="102" left="357" width="215" height="11" font="4">By Craig Villamor, Dan Willis, and Luke Wroblewski</text>
+<text top="116" left="357" width="117" height="11" font="4">Last updated April 15, 2010</text>
+<text top="175" left="57" width="402" height="17" font="5"><b>CORE GESTURES  </b>Basic gestures for most touch commands</text>
+<text top="619" left="57" width="167" height="13" font="7">Press surface with one finger and </text>
+<text top="633" left="57" width="164" height="13" font="7">move second finger over surface </text>
+<text top="646" left="57" width="109" height="13" font="7">without losing contact</text>
+<text top="457" left="462" width="93" height="13" font="7">Press surface with </text>
+<text top="471" left="462" width="107" height="13" font="7">one finger and briefly </text>
+<text top="484" left="462" width="94" height="13" font="7">touch surface with </text>
+<text top="497" left="462" width="67" height="13" font="7">second finger</text>
+<text top="457" left="327" width="89" height="13" font="7">Touch surface for </text>
+<text top="471" left="327" width="84" height="13" font="7">extended period </text>
+<text top="484" left="327" width="34" height="13" font="7">of time</text>
+<text top="312" left="57" width="104" height="13" font="7">Briefly touch surface </text>
+<text top="326" left="57" width="64" height="13" font="7">with fingertip</text>
+<text top="312" left="192" width="110" height="13" font="7">Rapidly touch surface </text>
+<text top="326" left="192" width="93" height="13" font="7">twice with fingertip</text>
+<text top="312" left="327" width="98" height="13" font="7">Move fingertip over </text>
+<text top="326" left="327" width="79" height="13" font="7">surface without </text>
+<text top="339" left="327" width="69" height="13" font="7">losing contact</text>
+<text top="312" left="462" width="110" height="13" font="7">Quickly brush surface </text>
+<text top="326" left="462" width="64" height="13" font="7">with fingertip</text>
+<text top="457" left="57" width="97" height="13" font="7">Touch surface with </text>
+<text top="471" left="57" width="107" height="13" font="7">two fingers and bring </text>
+<text top="484" left="57" width="102" height="13" font="7">them closer together</text>
+<text top="457" left="192" width="97" height="13" font="7">Touch surface with </text>
+<text top="471" left="192" width="79" height="13" font="7">two fingers and </text>
+<text top="484" left="192" width="84" height="13" font="7">move them apart</text>
+<text top="619" left="269" width="154" height="13" font="7">Touch surface with two fingers </text>
+<text top="633" left="269" width="152" height="13" font="7">and move them in a clockwise </text>
+<text top="646" left="269" width="145" height="13" font="7">or counterclockwise direction</text>
+<text top="702" left="73" width="272" height="12" font="8">Supporting materials for this guide can be found online at:</text>
+<text top="702" left="345" width="9" height="13" font="9">   </text>
+<text top="701" left="354" width="175" height="14" font="10"><b>http://www.lukew.com/touch/ </b></text>
+<text top="728" left="58" width="408" height="9" font="11">This work is licensed under the Creative Commons Attribution-Noncommercial-Share Alike 3.0 Unported License. </text>
+<text top="737" left="58" width="308" height="9" font="11">To view a copy of this license, visit http://creativecommons.org/licenses/by-nc-sa/3.0/</text>
+</page>
+</pdf2xml>

@@ -1,0 +1,73 @@
+
+Usage: pdf2swf [-options] file.pdf -o file.swf
+
+-h , --help                    Print short help message and exit
+-V , --version                 Print version info and exit
+-o , --output file.swf         Direct output to file.swf. If file.swf contains '%' (file%.swf), then each page goes to a separate file.
+-p , --pages range             Convert only pages in range with range e.g. 1-20 or 1,4,6,9-11 or
+-P , --password password       Use password for deciphering the pdf.
+-v , --verbose                 Be verbose. Use more than one -v for greater effect.
+-z , --zlib                    Use Flash 6 (MX) zlib compression.
+-i , --ignore                  Allows pdf2swf to change the draw order of the pdf. This may make the generated
+-j , --jpegquality quality     Set quality of embedded jpeg pictures to quality. 0 is worst (small), 100 is best (big). (default:85)
+-s , --set param=value         Set a SWF encoder specific parameter.  See pdf2swf -s help for more information.
+-w , --samewindow              When converting pdf hyperlinks, don't make the links open a new window. 
+-t , --stop                    Insert a stop() command in each page. 
+-T , --flashversion num        Set Flash Version in the SWF header to num.
+-F , --fontdir directory       Add directory to the font search path.
+-b , --defaultviewer           Link a standard viewer to the swf file. 
+-l , --defaultloader           Link a standard preloader to the swf file which will be displayed while the main swf is loading.
+-B , --viewer filename         Link viewer filename to the swf file. 
+-L , --preloader filename      Link preloader filename to the swf file. 
+-q , --quiet                   Suppress normal messages.  Use -qq to suppress warnings, also.
+-S , --shapes                  Don't use SWF Fonts, but store everything as shape.
+-f , --fonts                   Store full fonts in SWF. (Don't reduce to used characters).
+-G , --flatten                 Remove as many clip layers from file as possible. 
+-I , --info                    Don't do actual conversion, just display a list of all pages in the PDF.
+-Q , --maxtime n               Abort conversion after n seconds. Only available on Unix.
+
+
+
+PDF device global parameters:
+
+fontdir=<dir>     a directory with additional fonts
+font=<filename>   an additional font filename
+pages=<range>     the range of pages to convert (example: pages=1-100,210-)
+zoom=<dpi>        the resultion (default: 72)
+languagedir=<dir> Add an xpdf language directory
+multiply=<times>  Render everything at <times> the resolution
+poly2bitmap       Convert graphics to bitmaps
+bitmap            Convert everything to bitmaps
+
+SWF Parameters:
+
+SWF layer options:
+jpegsubpixels=<pixels>      resolution adjustment for jpeg images (same as jpegdpi, but in pixels)
+ppmsubpixels=<pixels        resolution adjustment for  lossless images (same as ppmdpi, but in pixels)
+subpixels=<pixels>          shortcut for setting both jpegsubpixels and ppmsubpixels
+drawonlyshapes              convert everything to shapes (currently broken)
+ignoredraworder             allow to perform a few optimizations for creating smaller SWFs
+linksopennewwindow          make links open a new browser window
+linktarget                  target window name of new links
+linkcolor=<color)           color of links (format: RRGGBBAA)
+linknameurl		    Link buttons will be named like the URL they refer to (handy for iterating through links with actionscript)
+storeallcharacters          don't reduce the fonts to used characters in the output file
+enablezlib                  switch on zlib compression (also done if flashversion>=6)
+bboxvars                    store the bounding box of the SWF file in actionscript variables
+dots                        Take care to handle dots correctly
+reordertags=0/1             (default: 1) perform some tag optimizations
+internallinkfunction=<name> when the user clicks a internal link (to a different page) in the converted file, this actionscript function is called
+externallinkfunction=<name> when the user clicks an external link (e.g. http://www.foo.bar/) on the converted file, this actionscript function is called
+disable_polygon_conversion  never convert strokes to polygons (will remove capstyles and joint styles)
+caplinewidth=<width>        the minimum thichness a line needs to have so that capstyles become visible (and are converted)
+
+insertstop                  put an ActionScript "STOP" tag in every frame
+protect                     add a "protect" tag to the file, to prevent loading in the Flash editor
+flashversion=<version>      the SWF fileversion (6)
+framerate=<fps>		    SWF framerate
+minlinewidth=<width>        convert horizontal/vertical boxes smaller than this width to lines (0.05) 
+simpleviewer                Add next/previous buttons to the SWF
+animate                     insert a showframe tag after each placeobject (animate draw order of PDF files)
+jpegquality=<quality>       set compression quality of jpeg images
+splinequality=<value>       Set the quality of spline convertion to value (0-100, default: 100).
+disablelinks                Disable links.
