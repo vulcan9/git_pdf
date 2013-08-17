@@ -7,7 +7,6 @@ http://coolwanglu.github.io/pdf2htmlEX/
 
 Quick Start
 
-
 Command line
 https://github.com/coolwanglu/pdf2htmlEX/wiki/Command-line
 
