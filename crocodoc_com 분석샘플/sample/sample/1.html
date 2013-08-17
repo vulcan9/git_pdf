@@ -1,0 +1,335 @@
+
+<div id="jpedal" style="position:relative;">
+
+<!-- Begin shared CSS values -->
+<!--[if lt IE 9]><style type="text/css">.t div div{zoom: 25%;}</style><![endif]-->
+<style type="text/css" >
+.t {
+	position: absolute;
+	-webkit-transform-origin: top left;
+	-moz-transform-origin: top left;
+	-o-transform-origin: top left;
+	-ms-transform-origin: top left;
+	-webkit-transform: scale(0.25);
+	-moz-transform: scale(0.25);
+	-o-transform: scale(0.25);
+	-ms-transform: scale(0.25);
+	z-index: 1;
+}
+.t div div {
+	position:absolute;
+	white-space:nowrap;
+	overflow:visible;
+}
+</style>
+<!-- End shared CSS values -->
+
+<!-- Begin shared JS -->
+<script type="text/javascript">
+
+// Ensure that we're not replacing any onload events
+function addLoadEvent(func) {
+	var oldonload = window.onload;
+	if (typeof window.onload != 'function') {
+		window.onload = func;
+	} else {
+		window.onload = function() {
+			if (oldonload) {
+				oldonload();
+			}
+			func();
+		}
+	}
+}
+function adjustWordSpacing(divName,actualWidth) {
+
+	var el = document.getElementById(divName);
+	var rawWidth=el.offsetWidth;
+	if(actualWidth>rawWidth){
+		var spacing= 0;
+		var s=spacing+'px';
+		el.style.wordSpacing = s;
+		rawWidth=el.offsetWidth;
+
+		var diff=rawWidth-actualWidth;
+		if(diff<0)
+			diff=-diff;
+		var newDiff=diff-1;
+
+		while (spacing<40 && (newDiff===diff || newDiff<diff)){
+
+			diff=newDiff;
+			spacing= spacing+1;
+
+			s=spacing+'px';
+			el.style.wordSpacing = s;
+
+			newDiff=el.offsetWidth-actualWidth;
+			if(newDiff<0)
+				newDiff=-newDiff;
+		}
+		if(diff<=newDiff)
+			spacing=spacing-1;
+		s=spacing+'px';
+		el.style.wordSpacing =s;
+	}
+}
+
+</script>
+<!-- End shared JS -->
+
+
+<!-- Begin inline CSS -->
+<style type="text/css" >
+
+#t1_1{left:344px;top:1352px;}
+#t2_1{left:1168px;top:1352px;}
+#t3_1{left:1996px;top:1352px;}
+#t4_1{left:2824px;top:1352px;}
+#t5_1{left:344px;top:2260px;}
+#t6_1{left:1168px;top:2260px;}
+#t7_1{left:1996px;top:2260px;}
+#t8_1{left:2824px;top:2260px;}
+#t9_1{left:344px;top:3228px;}
+#ta_1{left:1644px;top:3228px;}
+#tb_1{left:708px;top:3540px;}
+#tc_1{left:2332px;top:3540px;}
+#td_1{left:3056px;top:3540px;}
+#te_1{left:732px;top:420px;}
+#tf_1{left:2184px;top:496px;letter-spacing:17px;}
+#tg_1{left:2184px;top:620px;}
+#th_1{left:2184px;top:708px;}
+#ti_1{left:344px;top:1068px;letter-spacing:8px;}
+#tj_1{left:1256px;top:1068px;}
+#tk_1{left:344px;top:3780px;}
+#tl_1{left:344px;top:3860px;}
+#tm_1{left:344px;top:3940px;}
+#tn_1{left:2824px;top:2788px;}
+#to_1{left:2824px;top:2872px;}
+#tp_1{left:2824px;top:2952px;}
+#tq_1{left:2824px;top:3032px;}
+#tr_1{left:1996px;top:2788px;}
+#ts_1{left:1996px;top:2872px;}
+#tt_1{left:1996px;top:2952px;}
+#tu_1{left:344px;top:1904px;}
+#tv_1{left:344px;top:1984px;}
+#tw_1{left:1168px;top:1904px;}
+#tx_1{left:1168px;top:1984px;}
+#ty_1{left:1996px;top:1904px;}
+#tz_1{left:1996px;top:1984px;}
+#t10_1{left:1996px;top:2064px;}
+#t11_1{left:2824px;top:1904px;}
+#t12_1{left:2824px;top:1984px;}
+#t13_1{left:344px;top:2788px;}
+#t14_1{left:344px;top:2872px;}
+#t15_1{left:344px;top:2952px;}
+#t16_1{left:1168px;top:2788px;}
+#t17_1{left:1168px;top:2872px;}
+#t18_1{left:1168px;top:2952px;}
+#t19_1{left:1644px;top:3780px;}
+#t1a_1{left:1644px;top:3860px;}
+#t1b_1{left:1644px;top:3940px;}
+#t1c_1{left:444px;top:4288px;}
+#t1d_1{left:2164px;top:4276px;}
+#t1e_1{left:348px;top:4444px;}
+#t1f_1{left:348px;top:4500px;}
+
+.s3_1{
+	FONT-SIZE: 198px;
+	FONT-FAMILY: HelveticaNeue-Bold1;
+	color: rgb(0,0,0);
+}
+
+.s2_1{
+	FONT-SIZE: 48px;
+	FONT-FAMILY: HelveticaNeue1;
+	color: rgb(20,18,17);
+}
+
+.s1_1{
+	FONT-SIZE: 67px;
+	FONT-FAMILY: HelveticaNeue-Bold1;
+	color: rgb(0,0,0);
+}
+
+.s9_1{
+	FONT-SIZE: 64px;
+	FONT-FAMILY: HelveticaNeue1;
+	color: rgb(222,222,222);
+}
+
+.s5_1{
+	FONT-SIZE: 57px;
+	FONT-FAMILY: HelveticaNeue1;
+	color: rgb(0,0,0);
+}
+
+.s11_1{
+	FONT-SIZE: 48px;
+	FONT-FAMILY: HelveticaNeue1;
+	color: rgb(144,144,144);
+}
+
+.s10_1{
+	FONT-SIZE: 73px;
+	FONT-FAMILY: HelveticaNeue-Bold1;
+	color: rgb(255,255,255);
+}
+
+.s6_1{
+	FONT-SIZE: 85px;
+	FONT-FAMILY: HelveticaNeue-Bold1;
+	color: rgb(0,0,0);
+}
+
+.s7_1{
+	FONT-SIZE: 85px;
+	FONT-FAMILY: HelveticaNeue-Light1;
+	color: rgb(0,0,0);
+}
+
+.s4_1{
+	FONT-SIZE: 85px;
+	FONT-FAMILY: HelveticaNeue-Bold1;
+	color: rgb(0,0,0);
+}
+
+.s8_1{
+	FONT-SIZE: 67px;
+	FONT-FAMILY: HelveticaNeue1;
+	color: rgb(144,144,144);
+}
+
+</style>
+<!-- End inline CSS -->
+
+<!-- Begin embedded font definitions -->
+<style type="text/css" >
+
+@font-face {
+	font-family: HelveticaNeue-Light1;
+	src: url("1/fonts/HelveticaNeue-Light.otf");
+}
+
+@font-face {
+	font-family: HelveticaNeue1;
+	src: url("1/fonts/HelveticaNeue.otf");
+}
+
+@font-face {
+	font-family: HelveticaNeue-Bold1;
+	src: url("1/fonts/HelveticaNeue-Bold.otf");
+}
+
+</style>
+<!-- End embedded font definitions -->
+
+<!-- Begin text definitions (Positioned/styled in CSS) -->
+<div class="t">
+<div class="s1_1">
+<div id="t1_1">Tap</div>
+<div id="t2_1">Double tap</div>
+<div id="t3_1">Drag</div>
+<div id="t4_1">Flick</div>
+<div id="t5_1">Pinch</div>
+<div id="t6_1">Spread</div>
+<div id="t7_1">Press</div>
+<div id="t8_1">Press and tap</div>
+<div id="t9_1">Press and drag</div>
+<div id="ta_1">Rotate</div>
+</div>
+<div class="s2_1">
+<div id="tb_1">OR</div>
+<div id="tc_1">OR</div>
+<div id="td_1">OR</div>
+</div>
+<div class="s3_1">
+<div id="te_1">Touch Gesture</div>
+</div>
+<div class="s4_1">
+<div id="tf_1">REFERENCE  GUIDE</div>
+</div>
+<div class="s5_1">
+<div id="tg_1">By Craig Villamor, Dan Willis, and Luke Wroblewski</div>
+<div id="th_1">Last updated April 15, 2010</div>
+</div>
+<div class="s6_1">
+<div id="ti_1">CORE GESTURES</div>
+</div>
+<div class="s7_1">
+<div id="tj_1">Basic gestures for most touch commands</div>
+</div>
+<div class="s8_1">
+<div id="tk_1">Press surface with one finger and</div>
+<div id="tl_1">move second finger over surface</div>
+<div id="tm_1">without losing contact</div>
+<div id="tn_1">Press surface with</div>
+<div id="to_1">one finger and briefly</div>
+<div id="tp_1">touch surface with</div>
+<div id="tq_1">second finger</div>
+<div id="tr_1">Touch surface for</div>
+<div id="ts_1">extended period</div>
+<div id="tt_1">of time</div>
+<div id="tu_1">Briefly touch surface</div>
+<div id="tv_1">with fingertip</div>
+<div id="tw_1">Rapidly touch surface</div>
+<div id="tx_1">twice with fingertip</div>
+<div id="ty_1">Move fingertip over</div>
+<div id="tz_1">surface without</div>
+<div id="t10_1">losing contact</div>
+<div id="t11_1">Quickly brush surface</div>
+<div id="t12_1">with fingertip</div>
+<div id="t13_1">Touch surface with</div>
+<div id="t14_1">two fingers and bring</div>
+<div id="t15_1">them closer together</div>
+<div id="t16_1">Touch surface with</div>
+<div id="t17_1">two fingers and</div>
+<div id="t18_1">move them apart</div>
+<div id="t19_1">Touch surface with two fingers</div>
+<div id="t1a_1">and move them in a clockwise</div>
+<div id="t1b_1">or counterclockwise direction</div>
+</div>
+<div class="s9_1">
+<div id="t1c_1">Supporting materials for this guide can be found online at:</div>
+</div>
+<div class="s10_1">
+<div id="t1d_1">http://www.lukew.com/touch/</div>
+</div>
+<div class="s11_1">
+<div id="t1e_1">This work is licensed under the Creative Commons Attribution-Noncommercial-Share Alike 3.0 Unported License.</div>
+<div id="t1f_1">To view a copy of this license, visit http://creativecommons.org/licenses/by-nc-sa/3.0/</div>
+</div>
+</div>
+<!-- End text definitions -->
+
+<!-- Begin page background -->
+<div id="pg1Overlay" style="width:100%; height:100%; position:absolute; z-index:0; background-color:rgba(0,0,0,0);"></div>
+<div id="pg1"><img src="1/1.png" id="pdf1" style="width:935px; height:1210px; background-color:white;"/></div>
+
+<!-- End page background -->
+
+<!-- Begin page loading JS -->
+<script id="ld1" type="text/javascript">
+
+var f1 = [['t2_1',349],['t8_1',441],['t9_1',485],['te_1',1393],['tf_1',1054],['tg_1',1316],['th_1',714],['ti_1',837],['tj_1',1544],['tk_1',1003],['tl_1',983],['tm_1',663],['tn_1',552],['to_1',632],['tp_1',553],['tq_1',409],['tr_1',527],['ts_1',491],['tt_1',206],['tu_1',617],['tv_1',388],['tw_1',654],['tx_1',566],['ty_1',580],['tz_1',461],['t10_1',423],['t11_1',652],['t12_1',388],['t13_1',571],['t14_1',636],['t15_1',622],['t16_1',571],['t17_1',464],['t18_1',510],['t19_1',922],['t1a_1',908],['t1b_1',885],['t1c_1',1663],['t1e_1',2478],['t1f_1',1883]];
+var c1 = 0;
+function fontAdjustments1(){;
+	if (c1<f1.length) {
+		adjustWordSpacing(f1[c1][0],f1[c1][1]);
+		c1++;
+		if (c1%10 == 0) {
+			setTimeout(function(){fontAdjustments1()},0);
+		} else {
+			fontAdjustments1();
+		}
+	}
+};
+function load1(){
+	var timeout = 100;
+	if (navigator.userAgent.match(/iPhone|iPad|iPod|Android/i)) timeout = 500;
+	setTimeout(fontAdjustments1,timeout);
+}
+</script>
+<!-- End page loading JS -->
+
+</div>
