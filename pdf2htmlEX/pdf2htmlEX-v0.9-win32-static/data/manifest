@@ -1,0 +1,86 @@
+# pdf2htmlEX manifest 
+# Copyright (C) 2012,2013 Lu Wang <coolwanglu@gmail.com>
+#
+# Syntax
+# The first char of each line is the command
+# Empty lines are ignored
+#
+# # - comment
+# @ - embed or link to a file from data dir, depending on the value of --single-html
+# $ - special use for pdf2htmlEX
+#
+# Special
+# If a line contains """ only, all text until next """ will be included
+
+"""
+<!DOCTYPE html>
+<!-- Created by pdf2htmlEX (http://github.com/coolwanglu/pdf2htmlEX) -->
+<html>
+<head>
+<meta charset="utf-8">
+<meta name="generator" content="pdf2htmlEX">
+<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+"""
+
+# base CSS styles
+@base.css
+# fancy CSS styles
+@fancy.css
+# PDF specific CSS styles
+$css
+# necessary Javascript codes
+@jquery.js
+@pdf2htmlEX.js
+
+# entry point of pdf2htmlEX
+"""
+<script type="text/javascript">
+pdf2htmlEX.defaultViewer = new pdf2htmlEX.Viewer({
+    container_id : 'page-container', 
+    sidebar_id : 'sidebar',
+    outline_id : 'outline',
+});
+</script>
+"""
+
+"""
+<title></title>
+</head>
+<body>
+"""
+
+# The sidebar
+# By default this is hidden, pdf2htmlEX.js will add the 'opened' class if it is not empty
+# You can add a class 'opened' here if you want it always opened or you don't use pdf2htmlEX.js
+# e.g. 
+# <div id="sidebar" class="opened">
+"""
+<div id="sidebar">
+"""
+# container of outlines
+"""
+<div id="outline">
+"""
+$outline
+"""
+</div>
+</div>
+"""
+
+# The container of PDF pages
+# check base.css for an example and requirements of its CSS styles
+"""
+<div id="page-container">
+"""
+$pages
+"""
+</div>
+"""
+
+ 
+"""
+</body>
+</html>
+"""
+
+# MANIFEST END

@@ -1,0 +1,4 @@
+pdf2htmlEX --embed-css 0 --embed-font 0 --embed-image 0 --embed-javascript 0 --css-filename a.css --dest-dir ./b -f 1 -l 1 --zoom 1.3 D:\project\git_pdf\a.pdf b.html
+
+
+pdf2htmlEX --embed-css 0 --embed-font 0 --embed-image 0 --embed-javascript 0 --css-filename a.css --dest-dir ./c -f 1 -l 1 --zoom 2 a.pdf c.html
